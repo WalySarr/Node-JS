@@ -1,0 +1,24 @@
+{
+  "editor.fontFamily": "'JetBrains Mono',Consolas, 'Courier New', monospace",
+  "window.zoomLevel": 0.5,
+  "editor.fontLigatures": true,
+  "editor.lineHeight": 25,
+  "editor.fontSize": 14,
+  "workbench.colorCustomizations": {
+    "[Tokyo Night]": {
+      "editor.selectionBackground": "#3D59A1",
+      "editor.selectionHighlightBackground": "#3D59A1",
+      "terminal.foreground": "#008cc3",
+      "terminal.background": "#000000",
+      "scrollbarSlider.background": "#f2efef",
+      "scrollbarSlider.hoverBackground": "#00d4fe",
+      "scrollbarSlider.activeBackground": "#00d4fe"
+    },
+    "terminal.integrated.scrollbarStyle": "overlay",
+    "terminal.integrated.scrollbarSlider.background": "#FF0000",
+    "terminal.integrated.scrollbarSlider.hoverBackground": "#FFA500",
+    "terminal.integrated.scrollbarSlider.activeBackground": "#00FF00"
+  },
+  "terminal.integrated.fontFamily": "JetBrains Mono",
+  "terminal.integrated.lineHeight": 1.1
+}
